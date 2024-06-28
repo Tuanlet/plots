@@ -1,0 +1,5 @@
+Streamlit== 1.36.0
+seaborn==0.13.2
+scypy==1.14.0
+plotly==1.36.0
+pandas==2.2.2
